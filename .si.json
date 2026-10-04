@@ -9,6 +9,10 @@
     ".html": {
       "enabled": true,
       "run": "vscode-html-language-server --stdio"
+    },
+    ".py": {
+      "enabled": true,
+      "run": "pylsp"
     }
   }
 }
